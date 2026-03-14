@@ -79,3 +79,15 @@ Replace the placeholders in the code before running:
 const char* ssid = "YOUR_WIFI";
 const char* password = "YOUR_PASSWORD";
 const char* writeAPIKey = "YOUR_API_KEY";
+
+## System Design
+
+![System Design](images/system_design.jpeg)
+
+## Hardware Setup
+
+![Hardware Setup](images/Hardware_setup.jpeg)
+
+## Alert Notification
+
+![LPG Alert](images/LPG alert.jpeg)
