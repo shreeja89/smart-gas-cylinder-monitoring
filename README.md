@@ -88,8 +88,8 @@ const char* writeAPIKey = "YOUR_API_KEY";
 
 ## Hardware Setup
 
-![Hardware Setup](images/Hardware_setup.jpeg)
+![Hardware Setup](images/hardware_setup.jpeg)
 
 ## Alert Notification
 
-![LPG Alert](images/LPG alert.jpeg)
+![LPG Alert](images/lpg_alert.jpeg)
