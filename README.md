@@ -77,6 +77,7 @@ The system uses ThingSpeak for:
 ## Alert Notification
 ![LPG Alert](images/lpg_alert.jpeg)
 
+---
 
 ## Security Notice
 
@@ -89,5 +90,4 @@ const char* ssid = "YOUR_WIFI";
 const char* password = "YOUR_PASSWORD";
 const char* writeAPIKey = "YOUR_API_KEY";
 
----
 
