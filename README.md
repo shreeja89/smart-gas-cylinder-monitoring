@@ -80,6 +80,8 @@ const char* ssid = "YOUR_WIFI";
 const char* password = "YOUR_PASSWORD";
 const char* writeAPIKey = "YOUR_API_KEY";
 
+---
+
 ## System Design
 
 ![System Design](images/system_design.jpeg)
