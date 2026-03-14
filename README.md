@@ -83,13 +83,16 @@ const char* writeAPIKey = "YOUR_API_KEY";
 ---
 
 ## System Design
-
-![System Design](images/system_design.jpeg)
+<p align="center">
+  <img src="images/system_design.jpeg" width="700"/>
+</p>
 
 ## Hardware Setup
-
-![Hardware Setup](images/hardware_setup.jpeg)
+<p align="center">
+  <img src="images/hardware_setup.jpeg" width="600"/>
+</p>
 
 ## Alert Notification
-
-![LPG Alert](images/lpg_alert.jpeg)
+<p align="center">
+  <img src="images/lpg_alert.jpeg" width="350"/>
+</p>
